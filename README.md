@@ -88,4 +88,4 @@ Contributions to this project are welcome! Please fork the repository and submit
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](https://github.com/hedon954/rust-action-by-hedon/blob/main/LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE.md](LICENSE) file for details.
